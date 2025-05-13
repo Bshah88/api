@@ -1,4 +1,4 @@
-# Ryson API
+# Test API
 
 A NestJS backend for the Ryson application.
 
